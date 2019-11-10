@@ -91,7 +91,7 @@ function App() {
         <Container maxWidth='lg'>
           <Toolbar className={classes.toolbar}>
             <img alt={constants.nameApp} className={classes.icon} src={require('./resources/icon.png')} />
-            <Typography className={classes.titleApp}>TV INCAPERU</Typography>
+            <Typography className={classes.titleApp}>{constants.nameApp}</Typography>
           </Toolbar>
         </Container>
       </AppBar>
