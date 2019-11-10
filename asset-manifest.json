@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tvperuplay-web/static/css/main.34de6062.chunk.css",
+    "main.js": "/tvperuplay-web/static/js/main.6c082883.chunk.js",
+    "main.js.map": "/tvperuplay-web/static/js/main.6c082883.chunk.js.map",
+    "runtime-main.js": "/tvperuplay-web/static/js/runtime-main.ecb985e5.js",
+    "runtime-main.js.map": "/tvperuplay-web/static/js/runtime-main.ecb985e5.js.map",
+    "static/js/2.73d5e448.chunk.js": "/tvperuplay-web/static/js/2.73d5e448.chunk.js",
+    "static/js/2.73d5e448.chunk.js.map": "/tvperuplay-web/static/js/2.73d5e448.chunk.js.map",
+    "index.html": "/tvperuplay-web/index.html",
+    "precache-manifest.6eab3f194e9bd7f585dce3674f71111d.js": "/tvperuplay-web/precache-manifest.6eab3f194e9bd7f585dce3674f71111d.js",
+    "service-worker.js": "/tvperuplay-web/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/tvperuplay-web/static/css/main.34de6062.chunk.css.map",
+    "static/media/banner-bg.png": "/tvperuplay-web/static/media/banner-bg.2f3b3ac0.png",
+    "static/media/icon.png": "/tvperuplay-web/static/media/icon.81878ee0.png",
+    "static/media/iphone_hand.png": "/tvperuplay-web/static/media/iphone_hand.b795284a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecb985e5.js",
+    "static/js/2.73d5e448.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.6c082883.chunk.js"
+  ]
+}
